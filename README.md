@@ -11,6 +11,11 @@ In the branch of data mining, I'll set them to a title, and put some reading mat
 Okay, Let us beginning! Good luck!
 
 
+## Basic Theory
+
+- [x] [Klein, Dan. "Lagrange multipliers without permanent scarring." University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
+
+
 ## Data Preprocessing
 
 - [x] [Hernández, Mauricio A., and Salvatore J. Stolfo. "Real-world data is dirty: Data cleansing and the merge/purge problem." Data mining and knowledge discovery 2.1 (1998): 9-37.](https://link.springer.com/article/10.1023/A:1009761603038)

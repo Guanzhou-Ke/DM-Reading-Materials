@@ -8,6 +8,8 @@ So, let me tell you how to use this repo.
 
 In the branch of data mining, I'll set them to a title, and put some reading materials information below by it as a item. If each item has :white_check_mark: before it, just say you could find it's pdf in my corresponed sub-repo. but if you could download directly, then I suggest that you would click the item to download it.
 
+Finally, if you have any suggestions then really welcome you to send email to me. Thanks!
+
 Okay, Let us beginning! Good luck!
 
 

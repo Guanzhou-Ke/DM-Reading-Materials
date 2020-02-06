@@ -22,6 +22,8 @@ Okay, Let us beginning! Good luck!
 
 - [x] [Hernández, Mauricio A., and Salvatore J. Stolfo. "Real-world data is dirty: Data cleansing and the merge/purge problem." Data mining and knowledge discovery 2.1 (1998): 9-37.](https://link.springer.com/article/10.1023/A:1009761603038)
 
+  - This paper propose a keys sorting algorithm to clean many repeat entities from multiple databases.
+
 - [x] [Donders, A. Rogier T., et al. "A gentle introduction to imputation of missing values." Journal of clinical epidemiology 59.10 (2006): 1087-1091.](https://www.jclinepi.com/article/S0895-4356(06)00197-1/fulltext)
 
 - [x] [Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research 16 (2002): 321-357.](https://arxiv.org/abs/1106.1813)

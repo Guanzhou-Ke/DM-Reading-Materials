@@ -8,7 +8,7 @@ So, let me tell you how to use this repo.
 
 In the branch of data mining, I'll set them to a title, and put some reading materials information below by it as a item. If each item has :white_check_mark: before it, just say you could find it's pdf in my corresponed sub-repo. but if you could download directly, then I suggest that you would click the item to download it.
 
-Finally, if you have any suggestions then really welcome you to send email to me. Thanks!
+Finally, if you have any suggestions then please tell me for email. Thanks!
 
 Okay, Let us beginning! Good luck!
 
@@ -35,3 +35,4 @@ Okay, Let us beginning! Good luck!
 - [x] [Hua, Ming, and Jian Pei. "Cleaning disguised missing data: a heuristic approach." Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining. 2007.](https://dl.acm.org/doi/10.1145/1281192.1281294)
 
 - [x] **(PCA)** [Shlens, Jonathon. "A tutorial on principal component analysis." arXiv preprint arXiv:1404.1100 (2014).](https://arxiv.org/abs/1404.1100)
+

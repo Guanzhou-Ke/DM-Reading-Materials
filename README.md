@@ -30,9 +30,13 @@ Okay, Let us beginning! Good luck!
 
 - [x] [Japkowicz, Nathalie, and Shaju Stephen. "The class imbalance problem: A systematic study." Intelligent data analysis 6.5 (2002): 429-449.](https://dl.acm.org/doi/10.5555/1293951.1293954)
 
-- [x] [Keim, Daniel A. "Information visualization and visual data mining." IEEE transactions on Visualization and Computer Graphics 8.1 (2002): 1-8.](https://dl.acm.org/doi/10.1109/2945.981847)
-
 - [x] [Hua, Ming, and Jian Pei. "Cleaning disguised missing data: a heuristic approach." Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining. 2007.](https://dl.acm.org/doi/10.1145/1281192.1281294)
 
 - [x] **(PCA)** [Shlens, Jonathon. "A tutorial on principal component analysis." arXiv preprint arXiv:1404.1100 (2014).](https://arxiv.org/abs/1404.1100)
 
+
+## Visualization
+
+- [x] [Keim, Daniel A. "Information visualization and visual data mining." IEEE transactions on Visualization and Computer Graphics 8.1 (2002): 1-8.](https://dl.acm.org/doi/10.1109/2945.981847)
+
+- [x] [Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.](http://www.jmlr.org/papers/v9/vandermaaten08a.html)

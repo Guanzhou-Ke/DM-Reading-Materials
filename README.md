@@ -38,5 +38,6 @@ Okay, Let us beginning! Good luck!
 ## Visualization
 
 - [x] [Keim, Daniel A. "Information visualization and visual data mining." IEEE transactions on Visualization and Computer Graphics 8.1 (2002): 1-8.](https://dl.acm.org/doi/10.1109/2945.981847)
+  - A very useful review of visualization techniques, it propose a classification of visualization techniques method, which is based on the data type to be visualized, the visualization technique, and the interaction and distortion technique. You could find many valueable papers in it.
 
 - [x] [Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.](http://www.jmlr.org/papers/v9/vandermaaten08a.html)

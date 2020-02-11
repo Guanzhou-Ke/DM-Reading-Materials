@@ -15,14 +15,14 @@ Okay, Let us beginning! Good luck!
 
 ## Basic Theory
 
-- [x] [Klein, Dan. "Lagrange multipliers without permanent scarring." University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
-
+- [x] **(Lagrange multiplier)** [Klein, Dan. "Lagrange multipliers without permanent scarring." University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
+  - Lagrange multiplier is common core algorithm for calculation a optimization problem within constraint conditions. If you definitly understand it, then you would fastly master many machine learning algorithms.
 
 ## Data Preprocessing
 
 - [x] [Hernández, Mauricio A., and Salvatore J. Stolfo. "Real-world data is dirty: Data cleansing and the merge/purge problem." Data mining and knowledge discovery 2.1 (1998): 9-37.](https://link.springer.com/article/10.1023/A:1009761603038)
 
-  - This paper propose a keys sorting algorithm to clean many repeat entities from multiple databases.
+  - This paper propose a keys sorting algorithm to clean many repeat entities from multiple databases. such as the same real-world entities are represented differently in the data sets. It would be very useful if you have to merge/purge multiple records from different databases.
 
 - [x] [Donders, A. Rogier T., et al. "A gentle introduction to imputation of missing values." Journal of clinical epidemiology 59.10 (2006): 1087-1091.](https://www.jclinepi.com/article/S0895-4356(06)00197-1/fulltext)
 
@@ -33,6 +33,7 @@ Okay, Let us beginning! Good luck!
 - [x] [Hua, Ming, and Jian Pei. "Cleaning disguised missing data: a heuristic approach." Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining. 2007.](https://dl.acm.org/doi/10.1145/1281192.1281294)
 
 - [x] **(PCA)** [Shlens, Jonathon. "A tutorial on principal component analysis." arXiv preprint arXiv:1404.1100 (2014).](https://arxiv.org/abs/1404.1100)
+  - Principal component analysis(PCA) is a widely used but it more like a black box. This paper purpose to dispel the magic behind this black box. You may be only need to read it then you would understand all of PCA.  And this paper is suit for readers of all levels, just say it better than Google.
 
 
 ## Visualization
@@ -41,3 +42,4 @@ Okay, Let us beginning! Good luck!
   - A very useful review of visualization techniques, it propose a classification of visualization techniques method, which is based on the data type to be visualized, the visualization technique, and the interaction and distortion technique. You could find many valueable papers in it.
 
 - [x] [Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
+  - This paper purpose a better than pca method, t-Stochastic Neighbor Embedding, in visualization. It is a unsupervised learning method.

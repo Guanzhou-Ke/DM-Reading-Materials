@@ -26,9 +26,11 @@ Okay, Let us beginning! Good luck!
 
 - [x] [Donders, A. Rogier T., et al. "A gentle introduction to imputation of missing values." Journal of clinical epidemiology 59.10 (2006): 1087-1091.](https://www.jclinepi.com/article/S0895-4356(06)00197-1/fulltext)
 
-- [x] [Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research 16 (2002): 321-357.](https://arxiv.org/abs/1106.1813)
+- [x] (**SMOTE**)[Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research 16 (2002): 321-357.](https://arxiv.org/abs/1106.1813)
+  - This Paper proposed a ynthetic over-sampling method whcih could construction of classifier from imbalance data sets. And it also shown performance of the combination of the over-sampling minority class and the under-sampling majority class  is better than only use under-sampling majority class. Experiments are performed using C4.5, Ripper and a Naive Bayes classifier. Furthermore, the authors summarizes many previously approach and describes their disadvantage of methods.
 
 - [x] [Japkowicz, Nathalie, and Shaju Stephen. "The class imbalance problem: A systematic study." Intelligent data analysis 6.5 (2002): 429-449.](https://dl.acm.org/doi/10.5555/1293951.1293954)
+  - This paper will let you to understand what is class imblance problem and how to tackle them by re-sampling or cost-modifying methods, then how its effective in this problem. Finally it discuss the affection in modern classifier such as Decision Tree, Support Vector Machine and Nerual Network.
 
 - [x] [Hua, Ming, and Jian Pei. "Cleaning disguised missing data: a heuristic approach." Proceedings of the 13th ACM SIGKDD international conference on Knowledge discovery and data mining. 2007.](https://dl.acm.org/doi/10.1145/1281192.1281294)
 

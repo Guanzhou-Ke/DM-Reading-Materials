@@ -16,6 +16,7 @@ Okay, Let us beginning! Good luck!
 ## Overview
 
 - [x] [Romero, Cristóbal, and Sebastián Ventura. "Educational data mining: a review of the state of the art." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 40.6 (2010): 601-618.](https://ieeexplore.ieee.org/document/5524021)
+  - This paper is focus on the field of Educational data mining(EDM) which deal with different type of data on education area. Although it not the full meaning of data mining, but we could still understand the concept of data mining from it.
 
 - [x] [Wu, Xindong, et al. "Top 10 algorithms in data mining." Knowledge and information systems 14.1 (2008): 1-37.](https://link.springer.com/article/10.1007/s10115-007-0114-2)
 

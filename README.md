@@ -6,7 +6,7 @@ It may be include the whole field of data mining, I'll try my best.
 
 So, let me show you how to use this repo.
 
-In the branch of data mining, I'll set them to a title, and put some reading materials information below by it as a item. If each item has :white_check_mark: before it, just say you could find it's pdf in my corresponed sub-repo. but if you could download directly, then I suggest that you would click the item to download it.
+In the branch of data mining, I'll set them to a title, and put some reading materials information below by it as a item. If each item has :ballot_box_with_check: before it, just say you could find it's pdf in my corresponed sub-repo. but if you could download directly, then I suggest that you would click the item to download it.
 
 Finally, if you have any suggestions then please tell me for email. Thanks!
 
@@ -15,7 +15,7 @@ Okay, Let us beginning! Good luck!
 
 ## Overview
 
-- [x] :star: [Romero, Cristóbal, and Sebastián Ventura. "Educational data mining: a review of the state of the art." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 40.6 (2010): 601-618.](https://ieeexplore.ieee.org/document/5524021)
+- [x] [Romero, Cristóbal, and Sebastián Ventura. "Educational data mining: a review of the state of the art." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 40.6 (2010): 601-618.](https://ieeexplore.ieee.org/document/5524021)
 
 - [x] [Wu, Xindong, et al. "Top 10 algorithms in data mining." Knowledge and information systems 14.1 (2008): 1-37.](https://link.springer.com/article/10.1007/s10115-007-0114-2)
 

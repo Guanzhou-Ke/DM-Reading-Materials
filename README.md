@@ -19,7 +19,7 @@ Okay, Let us beginning! Good luck!
   - This paper is focus on the field of Educational data mining(EDM) which deal with different type of data in education area. Although it not the full meaning of data mining, but we could still understand the concept of data mining from it.
 
 - [x] :star: [Wu, Xindong, et al. "Top 10 algorithms in data mining." Knowledge and information systems 14.1 (2008): 1-37.](https://link.springer.com/article/10.1007/s10115-007-0114-2)
-  - This paper introduct 10 algorithms in data mining, including classification, clustering, statistical learning, association analysis, and link mining, and them were pretty frequently used in data mining research. So this paper would let us to understand how to do in data mining prefectly with them.
+  - This paper introduct 10 algorithms in data mining, they are included  association analysis, classification, clustering, statistical learning, bagging and boosting, sequential patterns, integrated mining, rough sets, link mining and graph mining, and them were pretty widely used in data mining research. So this paper would let us to understand how to do in data mining prefectly with them.
 
 - [x] :star: [Yang, Qiang, and Xindong Wu. "10 challenging problems in data mining research." International Journal of Information Technology & Decision Making 5.04 (2006): 597-604.](https://www.worldscientific.com/doi/abs/10.1142/S0219622006002258)
 
@@ -28,6 +28,9 @@ Okay, Let us beginning! Good luck!
 
 - [x] **(Lagrange multiplier)** [Klein, Dan. "Lagrange multipliers without permanent scarring." University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
   - Lagrange multiplier is common core algorithm for calculation a optimization problem within constraint conditions. If you definitly understand it, then you would fastly master many machine learning algorithms.
+
+- [x] [Boyd S, Boyd S P, Vandenberghe L. Convex optimization[M]. Cambridge university press, 2004.](https://web.stanford.edu/~boyd/cvxbook/)
+  - A pretty nice book for optimization of mathematical, and it is free to download. You could get anything(ebook, extra-practice, code) on the website. Amazingly, its all of the code were written by Python, Matlab and Julia, and you also could directly download them in this repo.
 
 ## Data Preprocessing
 

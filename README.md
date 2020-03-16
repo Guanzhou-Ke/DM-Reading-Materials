@@ -74,4 +74,10 @@ Okay, Let us beginning! Good luck!
 
 - [x] (Bayesk Network) [Friedman, Nir, Dan Geiger, and Moises Goldszmidt. "Bayesian network classifiers." Machine learning 29.2-3 (1997): 131-163.](https://link.springer.com/article/10.1023/A:1007465528199) 
 
+- [x] (SVM) [Burges, Christopher JC. "A tutorial on support vector machines for pattern recognition." Data mining and knowledge discovery 2.2 (1998): 121-167.](https://link.springer.com/article/10.1023/A:1009715923555)
+
+- [x] (SVM) [Boser, Bernhard E., Isabelle M. Guyon, and Vladimir N. Vapnik. "A training algorithm for optimal margin classifiers." Proceedings of the fifth annual workshop on Computational learning theory. 1992.](https://dl.acm.org/doi/abs/10.1145/130385.130401)
+
+
+
  

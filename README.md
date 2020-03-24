@@ -12,10 +12,16 @@ Finally, if you have any suggestions then please tell me for email. Thanks!
 
 Okay, Let us beginning! Good luck!
 
+| Content | | |
+|  ----  | ----  | ---- |
+| <a href="#survey">Suvery</a> | <a href="#basic-theory">Basic Theory</a> | <a href="#data-preprocessing">Data Preprocessing</a> |
+| [Visualization](#visualization) | [Classification](#classification) | Clustering |
+| Frequent Pattern | ... | ... |
 
-## Overview
 
-- [x] [Romero, Cristóbal, and Sebastián Ventura. "Educational data mining: a review of the state of the art." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 40.6 (2010): 601-618.](https://ieeexplore.ieee.org/document/5524021)
+## [Survey](#content)
+
+- [x] ["Educational data mining: a review of the state of the art." IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews) 40.6 (2010): 601-618.](https://ieeexplore.ieee.org/document/5524021)
   - This paper is focus on the field of Educational data mining(EDM) which deal with different type of data in education area. Although it not the full meaning of data mining, but we could still understand the concept of data mining from it.
 
 - [x] :star: [Wu, Xindong, et al. "Top 10 algorithms in data mining." Knowledge and information systems 14.1 (2008): 1-37.](https://link.springer.com/article/10.1007/s10115-007-0114-2)
@@ -24,7 +30,7 @@ Okay, Let us beginning! Good luck!
 - [x] :star: [Yang, Qiang, and Xindong Wu. "10 challenging problems in data mining research." International Journal of Information Technology & Decision Making 5.04 (2006): 597-604.](https://www.worldscientific.com/doi/abs/10.1142/S0219622006002258)
 
 
-## Basic Theory
+## [Basic Theory](#content)
 
 - [x] **(Lagrange multiplier)** [Klein, Dan. "Lagrange multipliers without permanent scarring." University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
   - Lagrange multiplier is common core algorithm for calculation a optimization problem within constraint conditions. If you definitly understand it, then you would fastly master many machine learning algorithms.
@@ -32,7 +38,7 @@ Okay, Let us beginning! Good luck!
 - [x] [Boyd S, Boyd S P, Vandenberghe L. Convex optimization[M]. Cambridge university press, 2004.](https://web.stanford.edu/~boyd/cvxbook/)
   - A pretty nice book for optimization of mathematical, and it is free to download. You could get anything(ebook, extra-practice, code) on the website. Amazingly, its all of the code were written by Python, Matlab and Julia, and you also could directly download them in this repo.
 
-## Data Preprocessing
+## [Data Preprocessing](#content)
 
 - [x] [Hernández, Mauricio A., and Salvatore J. Stolfo. "Real-world data is dirty: Data cleansing and the merge/purge problem." Data mining and knowledge discovery 2.1 (1998): 9-37.](https://link.springer.com/article/10.1023/A:1009761603038)
 
@@ -52,7 +58,7 @@ Okay, Let us beginning! Good luck!
   - Principal component analysis(PCA) is a widely used but it more like a black box. This paper purpose to dispel the magic behind this black box. You may be only need to read it then you would understand all of PCA.  And this paper is suit for readers of all levels, just say it better than Google.
 
 
-## Visualization
+## [Visualization](#content)
 
 - [x] :star: [Keim, Daniel A. "Information visualization and visual data mining." IEEE transactions on Visualization and Computer Graphics 8.1 (2002): 1-8.](https://dl.acm.org/doi/10.1109/2945.981847)
   - A very useful review of visualization techniques, it propose a classification of visualization techniques method, which is based on the data type to be visualized, the visualization technique, and the interaction and distortion technique. You could find many valueable papers in it.
@@ -60,7 +66,7 @@ Okay, Let us beginning! Good luck!
 - [x] [Maaten, Laurens van der, and Geoffrey Hinton. "Visualizing data using t-SNE." Journal of machine learning research 9.Nov (2008): 2579-2605.](http://www.jmlr.org/papers/v9/vandermaaten08a.html)
   - This paper purpose a better than pca method, t-Stochastic Neighbor Embedding, in visualization. It is a unsupervised learning method.
 
-## Classification
+## [Classification](#content)
 
 - [x] :star: (**CART**) [Breiman, Leo. Classification and regression trees. Routledge, 2017.](./classification/cart-book.pdf)
   - It is a quiet classic classification and regression trees(CART) book.

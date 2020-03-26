@@ -14,7 +14,7 @@ Okay, Let us beginning! Good luck!
 
 | Content | | |
 |  ----  | ----  | ---- |
-| <a href="#survey">Suvery</a> | <a href="#basic-theory">Basic Theory</a> | <a href="#data-preprocessing">Data Preprocessing</a> |
+|[Suvery](#survey) | [Basic Theory](#basic-theory) | [Data Preprocessing](#data-preprocessing)|
 | [Visualization](#visualization) | [Classification](#classification) | Clustering |
 | Frequent Pattern | ... | ... |
 
@@ -28,6 +28,7 @@ Okay, Let us beginning! Good luck!
   - This paper introduct 10 algorithms in data mining, they are included  association analysis, classification, clustering, statistical learning, bagging and boosting, sequential patterns, integrated mining, rough sets, link mining and graph mining, and them were pretty widely used in data mining research. So this paper would let us to understand how to do in data mining prefectly with them.
 
 - [x] :star: [Yang, Qiang, and Xindong Wu. "10 challenging problems in data mining research." International Journal of Information Technology & Decision Making 5.04 (2006): 597-604.](https://www.worldscientific.com/doi/abs/10.1142/S0219622006002258)
+  - This paper dicussed the hotest ten topic of data mining, such as time series mining, recognize complex knowledges and mining network stream etc. Even though issued in 2005, but it still has a great value to`` miner in today.
 
 
 ## [Basic Theory](#content)

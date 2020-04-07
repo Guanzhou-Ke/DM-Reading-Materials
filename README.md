@@ -15,7 +15,7 @@ Okay, Let us beginning! Good luck!
 | Content | | |
 |  ----  | ----  | ---- |
 |[Suvery](#survey) | [Basic Theory](#basic-theory) | [Data Preprocessing](#data-preprocessing)|
-| [Visualization](#visualization) | [Classification](#classification) | Clustering |
+| [Visualization](#visualization) | [Classification](#classification) | [Clustering](#clustering) |
 | Frequent Pattern | ... | ... |
 
 
@@ -29,6 +29,9 @@ Okay, Let us beginning! Good luck!
 
 - [x] :star: [Yang, Qiang, and Xindong Wu. "10 challenging problems in data mining research." International Journal of Information Technology & Decision Making 5.04 (2006): 597-604.](https://www.worldscientific.com/doi/abs/10.1142/S0219622006002258)
   - This paper dicussed the hotest ten topic of data mining, such as time series mining, recognize complex knowledges and mining network stream etc. Even though issued in 2005, but it still has a great value to`` miner in today.
+
+- [x] [Donoho, D. (2017). 50 Years of Data Science. Journal of Computational and Graphical Statistics, 26(4), 745–766.](https://doi.org/10.1080/10618600.2017.1384734)
+
 
 
 ## [Basic Theory](#content)
@@ -84,6 +87,11 @@ Okay, Let us beginning! Good luck!
 - [x] (SVM) [Burges, Christopher JC. "A tutorial on support vector machines for pattern recognition." Data mining and knowledge discovery 2.2 (1998): 121-167.](https://link.springer.com/article/10.1023/A:1009715923555)
 
 - [x] (SVM) [Boser, Bernhard E., Isabelle M. Guyon, and Vladimir N. Vapnik. "A training algorithm for optimal margin classifiers." Proceedings of the fifth annual workshop on Computational learning theory. 1992.](https://dl.acm.org/doi/abs/10.1145/130385.130401)
+
+
+# [Clustering](#content)
+
+- [x] :star: (Review)[Jain, A. K. (2010). Data clustering: 50 years beyond K-means. Pattern Recognition Letters, 31(8), 651–666.](https://doi.org/10.1016/j.patrec.2009.09.011)
 
 
 

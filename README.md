@@ -1,16 +1,38 @@
 # DM-Reading-Materials
-Data Mining Must to Read Materials
+Data Mining Must to Read Materials | 数据挖掘必读论文
 
-In this repository, I'll recommend many must reading materials to you.
-It may be include the whole field of data mining, I'll try my best.
+### Using description
+
+In this repository, I'll recommend many must reading materials to you. It may be include the whole field of data mining, I'll try my best.
 
 So, let me show you how to use this repo.
 
-In the branch of data mining, I'll set them to a title, and put some reading materials information below by it as a item. If each item has :ballot_box_with_check: before it, just say you could find it's pdf in my corresponed sub-repo. but if you could download directly, then I suggest that you would click the item to download it.
+In the branch of data mining, I'll set them to a title, and put some reading materials information below by it as a item. If each item has :ballot_box_with_check: before it, just say you could find it's pdf in my corresponed sub-repo. but if you could download directly, then I suggest that you would click the item to download it. 
+
+Then you could see that have :star: before some items, it indicate that this paper was a highly influential in its field, as well as I really recommend you could read it carefully. 
+
+In addition, I am going to write down some thinking about this paper below some items, them just show that my perception after reading them. Hopefully, they could help you to master fastly the whole centre of papers.
 
 Finally, if you have any suggestions then please tell me for email. Thanks!
 
 Okay, Let us beginning! Good luck!
+
+### 使用说明
+
+本人在学习数据挖掘理论的时候收集了一些论文，我将其中有一些写的非常的好(有很大影响力)的文章放在这个仓库里，供大家阅读，节省文献减少的时间。我会竭尽所能地记录数据挖掘几大领域的好文章。
+
+这个repo的使用说明如下：
+
+我会以该文章的完整引用格式作为索引，如果索引前面带有 :ballot_box_with_check: 则说明可以在repo对应的目录中找到该论文的pdf版，仅作学习交流用途，如果有能力的读者可以直接点击索引进行下载。
+
+如果某些论文索引前面带有 :star: 就表明该论文我建议您仔细阅读。
+
+此外，我还会在一些论文索引下面记录我自己的感悟，我希望这些能够帮助您快速掌握文章的中心。
+
+最后，若您有关于此repo的任何疑惑或者想要和我一起帮助他人，请发邮件给我。感谢！
+
+祝大家学习愉快，科研顺利！
+
 
 | Content | | |
 |  ----  | ----  | ---- |
@@ -92,6 +114,8 @@ Okay, Let us beginning! Good luck!
 # [Clustering](#content)
 
 - [x] :star: (Review)[Jain, A. K. (2010). Data clustering: 50 years beyond K-means. Pattern Recognition Letters, 31(8), 651–666.](https://doi.org/10.1016/j.patrec.2009.09.011)
+
+- [x] [Tibshirani, R., Walther, G., & Hastie, T. (2001). Estimating the number of data clusters via the gap statistic. In Journal of the Royal Statistical Society: Series B (Vol. 63, Issue Part 2, pp. 411–423).](https://doi.org/10.1111/1467-9868.00293)
 
 
 

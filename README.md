@@ -38,7 +38,7 @@ Okay, Let us beginning! Good luck!
 |  ----  | ----  | ---- |
 |[Suvery](#survey) | [Basic Theory](#basic-theory) | [Data Preprocessing](#data-preprocessing)|
 | [Visualization](#visualization) | [Classification](#classification) | [Clustering](#clustering) |
-| Frequent Pattern | ... | ... |
+| [Frequent Pattern](#frequent-pattern) | ... | ... |
 
 
 ## [Survey](#content)
@@ -58,7 +58,7 @@ Okay, Let us beginning! Good luck!
 
 ## [Basic Theory](#content)
 
-- [x] **(Lagrange multiplier)** [Klein, Dan. **"Lagrange multipliers without permanent scarring."** University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
+- [x] (Lagrange multiplier) [Klein, Dan. **"Lagrange multipliers without permanent scarring."** University of California at Berkeley, Computer Science Division (2004): 1-11.](http://www-diglib.stanford.edu/~klein/lagrange-multipliers.pdf)
   - Lagrange multiplier is common core algorithm for calculation a optimization problem within constraint conditions. If you definitly understand it, then you would fastly master many machine learning algorithms.
 
 - [x] [Boyd S, Boyd S P, Vandenberghe L. **Convex optimization**[M]. Cambridge university press, 2004.](https://web.stanford.edu/~boyd/cvxbook/)
@@ -123,6 +123,10 @@ Okay, Let us beginning! Good luck!
 - [x] [Erich Schubert, Peter J. Rousseeuw: **Faster k-Medoids Clustering: Improving the PAM, CLARA, and CLARANS Algorithms.** Similarity Search and Applications. SISAP 2019: 171-187](https://doi.org/10.1007/978-3-030-32047-8_16)
 
 
+# [Frequent Pattern](#content)
 
+- [x] :star: [Agrawal, Rakesh, and Ramakrishnan Srikant. **"Fast algorithms for mining association rules."** Proc. 20th int. conf. very large data bases, VLDB. Vol. 1215. 1994.](https://web.stanford.edu/class/cs345d-01/rl/ar-mining.pdf)
+
+  - Apriori algorithm, really classical paper in discovery of frequent pattern.
 
  

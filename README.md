@@ -125,8 +125,15 @@ Okay, Let us beginning! Good luck!
 
 # [Frequent Pattern](#content)
 
-- [x] :star: [Agrawal, Rakesh, and Ramakrishnan Srikant. **"Fast algorithms for mining association rules."** Proc. 20th int. conf. very large data bases, VLDB. Vol. 1215. 1994.](https://web.stanford.edu/class/cs345d-01/rl/ar-mining.pdf)
+- [x] :star: (Overview) [J. Han, H. Cheng, D. Xin, and X. Yan, **“Frequent pattern mining: Current status and future directions”**.](https://link.springer.com/article/10.1007/s10618-006-0059-1)
+
+- [x] (Apriori) [Agrawal, Rakesh, and Ramakrishnan Srikant. **"Fast algorithms for mining association rules."** Proc. 20th int. conf. very large data bases, VLDB. Vol. 1215. 1994.](https://web.stanford.edu/class/cs345d-01/rl/ar-mining.pdf)
 
   - Apriori algorithm, really classical paper in discovery of frequent pattern.
 
+- [x] (FP-growth) [Han, J., Pei, J., & Yin, Y. (2000). **Mining frequent patterns without candidate generation.** ACM sigmod record, 29(2), 1-12.](https://dl.acm.org/doi/abs/10.1145/335191.335372)
+
+  - Freqent pattern growth algorithm.
+
+- [x] (FP-Max) [Grahne, Gosta & Zhu, Jianfei. (2003). **Efficiently Using Prefix-trees in Mining Frequent Itemsets.** FIMI'03 Workshop on Frequent Itemset Mining Implementations: 2003.](https://www.researchgate.net/publication/220845998_Efficiently_Using_Prefix-trees_in_Mining_Frequent_Itemsets)
  

@@ -1,6 +1,8 @@
 # DM-Reading-Materials
 Data Mining Must to Read Materials | 数据挖掘必读论文
 
+---
+
 ### Using description
 
 In this repository, I am going to recommend many must reading materials to you. It may be include the whole field of data mining, I will try my best.
@@ -16,6 +18,8 @@ In addition, I am going to write down some thinking about this paper below some 
 Finally, if you have any suggestions then please tell me for email. Thanks!
 
 Okay, Let us beginning! Good luck!
+
+---
 
 ### 使用说明
 
@@ -33,12 +37,15 @@ Okay, Let us beginning! Good luck!
 
 祝大家学习愉快，科研顺利！
 
+---
 
 | Content | | |
 |  ----  | ----  | ---- |
 |[Suvery](#survey) | [Basic Theory](#basic-theory) | [Data Preprocessing](#data-preprocessing)|
 | [Visualization](#visualization) | [Classification](#classification) | [Clustering](#clustering) |
 | [Frequent Pattern](#frequent-pattern) | ... | ... |
+
+---
 
 
 ## [Survey](#content)
@@ -114,7 +121,7 @@ Okay, Let us beginning! Good luck!
 - [x] (SVM) [Boser, Bernhard E., Isabelle M. Guyon, and Vladimir N. Vapnik. **"A training algorithm for optimal margin classifiers."** Proceedings of the fifth annual workshop on Computational learning theory. 1992.](https://dl.acm.org/doi/abs/10.1145/130385.130401)
 
 
-# [Clustering](#content)
+## [Clustering](#content)
 
 - [x] :star: (Review)[Jain, A. K. (2010). **Data clustering: 50 years beyond K-means**. Pattern Recognition Letters, 31(8), 651–666.](https://doi.org/10.1016/j.patrec.2009.09.011)
 
@@ -123,7 +130,7 @@ Okay, Let us beginning! Good luck!
 - [x] [Erich Schubert, Peter J. Rousseeuw: **Faster k-Medoids Clustering: Improving the PAM, CLARA, and CLARANS Algorithms.** Similarity Search and Applications. SISAP 2019: 171-187](https://doi.org/10.1007/978-3-030-32047-8_16)
 
 
-# [Frequent Pattern](#content)
+## [Frequent Pattern](#content)
 
 - [x] :star: (Overview) [J. Han, H. Cheng, D. Xin, and X. Yan, **“Frequent pattern mining: Current status and future directions”**.](https://link.springer.com/article/10.1007/s10618-006-0059-1)
 
@@ -135,5 +142,11 @@ Okay, Let us beginning! Good luck!
 
   - Freqent pattern growth algorithm.
 
-- [x] (FP-Max) [Grahne, Gosta & Zhu, Jianfei. (2003). **Efficiently Using Prefix-trees in Mining Frequent Itemsets.** FIMI'03 Workshop on Frequent Itemset Mining Implementations: 2003.](https://www.researchgate.net/publication/220845998_Efficiently_Using_Prefix-trees_in_Mining_Frequent_Itemsets)
+- [x] (FP-Max<sup>*</sup>) [Grahne, Gosta & Zhu, Jianfei. (2003). **Efficiently Using Prefix-trees in Mining Frequent Itemsets.** FIMI'03 Workshop on Frequent Itemset Mining Implementations: 2003.](https://www.researchgate.net/publication/220845998_Efficiently_Using_Prefix-trees_in_Mining_Frequent_Itemsets)
+
+### Subgraph mining
+
+- [x] :star: (Overview) [Jiang, Chuntao, Frans Coenen, and Michele Zito. **"A survey of frequent subgraph mining algorithms."** The Knowledge Engineering Review 28.1 (2013): 75-105.](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/survey-of-frequent-subgraph-mining-algorithms/A58904230A6680001F17FCE91CB8C65F)
+
+- [x] :star: (Overview) [Washio, Takashi, and Hiroshi Motoda. **"State of the art of graph-based data mining."** Acm Sigkdd Explorations Newsletter 5.1 (2003): 59-68.](https://dl.acm.org/doi/abs/10.1145/959242.959249)
  

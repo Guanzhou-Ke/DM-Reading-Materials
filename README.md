@@ -39,11 +39,17 @@ Okay, Let us beginning! Good luck!
 
 ---
 
-| Content | | |
+| Table of Contents | | |
 |  ----  | ----  | ---- |
 |[Suvery](#survey) | [Basic Theory](#basic-theory) | [Data Preprocessing](#data-preprocessing)|
 | [Visualization](#visualization) | [Classification](#classification) | [Clustering](#clustering) |
-| [Frequent Pattern](#frequent-pattern) | ... | ... |
+| [Frequent Pattern](#frequent-pattern) | Linking Mining | Bagging and Boosting |
+| [Graph Mining](#graph-mining) | Sequential Patterns | Integrated Mining |
+| [Deep Learning](#deep-learning) |  ... | ... |
+
+**Note:** The table of contents is based on Prof. XinDong Wu's speech in [CCF of China](https://dl.ccf.org.cn/audioVideo/detail.html?id=4966039790356480)
+
+**注：** 目录是根据吴新东教授在[CCF](https://dl.ccf.org.cn/audioVideo/detail.html?id=4966039790356480)的一场演讲所制作的。
 
 ---
 
@@ -144,9 +150,15 @@ Okay, Let us beginning! Good luck!
 
 - [x] (FP-Max<sup>*</sup>) [Grahne, Gosta & Zhu, Jianfei. (2003). **Efficiently Using Prefix-trees in Mining Frequent Itemsets.** FIMI'03 Workshop on Frequent Itemset Mining Implementations: 2003.](https://www.researchgate.net/publication/220845998_Efficiently_Using_Prefix-trees_in_Mining_Frequent_Itemsets)
 
-### Subgraph mining
+## [Graph Mining](#content)
 
 - [x] :star: (Overview) [Jiang, Chuntao, Frans Coenen, and Michele Zito. **"A survey of frequent subgraph mining algorithms."** The Knowledge Engineering Review 28.1 (2013): 75-105.](https://www.cambridge.org/core/journals/knowledge-engineering-review/article/survey-of-frequent-subgraph-mining-algorithms/A58904230A6680001F17FCE91CB8C65F)
 
 - [x] :star: (Overview) [Washio, Takashi, and Hiroshi Motoda. **"State of the art of graph-based data mining."** Acm Sigkdd Explorations Newsletter 5.1 (2003): 59-68.](https://dl.acm.org/doi/abs/10.1145/959242.959249)
- 
+
+
+## [Deep Learning](#content)
+
+- [x] :star: (Overview) [LeCun, Y., Bengio, Y., & Hinton, G. (2015). **Deep learning**. nature, 521(7553), 436-444.](https://www.nature.com/articles/nature14539)
+
+  - The best paper of introduction for deep learning made by LeCun, Bengio and Hinton.

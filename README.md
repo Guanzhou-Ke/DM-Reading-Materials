@@ -43,7 +43,7 @@ Okay, Let us beginning! Good luck!
 |  ----  | ----  | ---- |
 |[Suvery](#survey) | [Basic Theory](#basic-theory) | [Data Preprocessing](#data-preprocessing)|
 | [Visualization](#visualization) | [Classification](#classification) | [Clustering](#clustering) |
-| [Frequent Pattern](#frequent-pattern) | Linking Mining | Bagging and Boosting |
+| [Frequent Pattern](#frequent-pattern) | [Linking Mining](#link-mining) | Bagging and Boosting |
 | [Graph Mining](#graph-mining) | Sequential Patterns | Integrated Mining |
 | [Deep Learning](#deep-learning) |  ... | ... |
 
@@ -60,7 +60,7 @@ Okay, Let us beginning! Good luck!
   - This paper is focus on the field of Educational data mining(EDM) which deal with different type of data in education area. Although it not the full meaning of data mining, but we could still understand the concept of data mining from it.
 
 - [x] :star: [Wu, Xindong, et al. **"Top 10 algorithms in data mining."** Knowledge and information systems 14.1 (2008): 1-37.](https://link.springer.com/article/10.1007/s10115-007-0114-2)
-  - This paper introduct 10 algorithms in data mining, they are included  association analysis, classification, clustering, statistical learning, bagging and boosting, sequential patterns, integrated mining, rough sets, link mining and graph mining, and them were pretty widely used in data mining research. So this paper would let us to understand how to do in data mining prefectly with them.
+  - This paper introduct 10 algorithms in data mining, they are included  association analysis, classification, clustering, statistical learning, bagging and boosting, sequential patterns, integrated mining, rough sets, link mining and graph mining, and them were pretty widely used in data mining research. So this paper would let us to understand how to do in data mining prefectly with them.
 
 - [x] :star: [Yang, Qiang, and Xindong Wu. **"10 challenging problems in data mining research."** International Journal of Information Technology & Decision Making 5.04 (2006): 597-604.](https://www.worldscientific.com/doi/abs/10.1142/S0219622006002258)
   - This paper dicussed the hotest ten topic of data mining, such as time series mining, recognize complex knowledges and mining network stream etc. Even though issued in 2005, but it still has a great value to`` miner in today.
@@ -162,3 +162,10 @@ Okay, Let us beginning! Good luck!
 - [x] :star: (Overview) [LeCun, Y., Bengio, Y., & Hinton, G. (2015). **Deep learning**. nature, 521(7553), 436-444.](https://www.nature.com/articles/nature14539)
 
   - The best paper of introduction for deep learning made by LeCun, Bengio and Hinton.
+
+
+## [Link Mining](#content)
+
+- [x] [Getoor, Lise, and Christopher P. Diehl. **"Link mining: a survey."** Acm Sigkdd Explorations Newsletter 7.2 (2005): 3-12.](https://dl.acm.org/doi/abs/10.1145/1117454.1117456)
+
+- [x] [Senator, Ted E. **"Link mining applications: Progress and challenges."** ACM SIGKDD Explorations Newsletter 7.2 (2005): 76-83.](https://dl.acm.org/doi/abs/10.1145/1117454.1117465)
